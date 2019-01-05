@@ -10,10 +10,10 @@ Part 2:
 Zip images with its label and project it to a 4X4 Matrix
 
 Part 3:
-Created a confusion matrix to see the predicted vs. actual.
+Created a confusion matrix to test the predicted vs. actual.
 
 Part 4:
-Used the elbow method to find the best k.
+Used elbow method to find the best k.
 
 Part 5: 
 Implemented t-SNE to take the 64-Dimensional data to 2-dimensional for a better understanding of the data.
